@@ -1,162 +1,65 @@
 # 👤 Karen Tonoyan
 
-**Specjalista ds. technologii cyfrowych | Automatyzacja | Web & aplikacje | Edukacja**
+**Profil operacyjny z kompetencjami technologicznymi | Porządkowanie informacji | Wspieranie ludzi**
 
 📍 Legnica  
 📧 [kontakt@karentonoyan.pl](mailto:kontakt@karentonoyan.pl)  
-🌐 [https://karentonoyan.pl](https://karentonoyan.pl/)  
-LinkedIn: Karen Tonoyan  
-Facebook: Karen Tonoyan
+🌐 [https://karentonoyan.pl](https://karentonoyan.pl/)
 
 ---
 
 ## 🎯 Profil zawodowy
 
-Specjalista o szerokim profilu technicznym i kreatywnym. Zajmuje się projektowaniem stron internetowych, audytem serwisów webowych, tworzeniem aplikacji oraz materiałów edukacyjnych. Łączy kompetencje technologiczne z myśleniem analitycznym i psychologicznym. Osoba systematyczna, zorientowana na szczegóły, nastawiona na ciągły rozwój i długofalową pracę koncepcyjną.
-
-*(Pedantyzm i ADHD zostały przetłumaczone na język HR: dokładność, koncentracja, samorozwój.)*
-
----
-
-## 🎓 Wykształcenie
-
-**Technikum Medyczne "Hipokrat", Armenia** | Technik protetyk  
-2003–2005
-
-**Służba wojskowa** – jednostki rezerwowe (saper)  
-2005–2007
+Profil operacyjny z kompetencjami technologicznymi, ukierunkowanymi na porządkowanie informacji i wspieranie ludzi w środowiskach wymagających odpowiedzialności, dyscypliny oraz jasnej komunikacji. Doświadczenie w pracy zgodnej z procedurami, projektach koncepcyjnych opartych na AI oraz działaniach edukacyjnych i informacyjnych.
 
 ---
 
 ## 💼 Doświadczenie zawodowe
 
-### 🔐 Ochrona mienia - Pracownik ochrony
-2025 – obecnie
+### Pracownik ochrony – ochrona mienia i osób
 
-- Zapewnienie bezpieczeństwa obiektów i osób
-- - Praca zgodna z procedurami i odpowiedzialność prawną
-  - - Wysoki poziom dyscypliny, koncentracji i samokontrolę
-### Castorama – Kierowca
-2024–2025
+**2025 – obecnie**
 
-### DPD – Kurier (do 3,5 t)
-2023
+- Zapewnienie bezpieczeństwa obiektów i osób w trybie zmianowym
+- Praca zgodna z obowiązującymi procedurami i odpowiedzialnością prawną
+- Utrzymanie koncentracji, kontroli sytuacyjnej i samodyscypliny w środowisku podwyższonego ryzyka
 
-### Opiekun Medyczny – Niemcy
-2019–2023
+### Projekty technologiczne – automatyzacja i narzędzia informacyjne
 
-### Hurtownia Gordon – Dostawca części
-2018–2019
+- Projektowanie koncepcji prostych automatyzacji oraz narzędzi opartych na AI
+- Porządkowanie informacji i upraszczanie komunikacji użytkownik–system
+- Zastosowanie rozwiązań technologicznych w kontekstach edukacyjnych i wspierających
+- Łączenie technologii z realnymi potrzebami użytkowników, szczególnie w obszarach wymagających jasności i redukcji przeciążenia informacyjnego
 
-### Multi Group – Magazynier / Kierowca
-2015–2018
+### Doświadczenie społeczne i edukacyjne
 
-### Hallo Pizza – Pizzerman → Menedżer zmiany
-2013–2015
-- Awans wewnętrzny
-- Organizacja pracy zespołu
-- Nadzór nad realizacją zamówień
+- Tworzenie i współtworzenie materiałów edukacyjnych dotyczących zdrowia psychicznego i dobrostanu
+- Działania informacyjne i profilaktyczne związane z kryzysem psychicznym oraz wsparciem emocjonalnym
+- Współpraca z instytucjami publicznymi w zakresie programów i materiałów edukacyjnych
+- Skupienie na komunikacji, zrozumieniu treści oraz odpowiedzialnym przekazywaniu informacji
 
-### Pizzeria Valentino – Pizzerman
-2010–2013
+### Koncepcja narzędzia AI wspierającego komunikację medyczną
 
-*(Tak, awans zaznaczony. To konkret, nie przechwałka.)*
+- Koncepcyjny projekt narzędzia wspierającego porządkowanie informacji medycznych dla pacjenta
+- Ułatwienie zrozumienia zaleceń i procesu konsultacyjnego
+- Projekt o charakterze edukacyjno-informacyjnym, nie zastępujący diagnozy ani decyzji lekarza
+- Inspiracja międzynarodowymi kierunkami rozwoju narzędzi wspierających komunikację (w tym kraje azjatyckie)
 
 ---
 
-## 💻 Kompetencje techniczne
+## 💻 Kompetencje kluczowe
 
-### Web & aplikacje
-- Projektowanie i audyt stron internetowych
-- Tworzenie aplikacji (środowiska: Visual Studio, Android Studio)
-- Podstawy programowania aplikacji mobilnych i desktopowych
-
-### Grafika i reklama
-- Projektowanie graficzne
-- Materiały reklamowe i promocyjne
-- Photoshop, CorelDRAW
-
-### Automatyzacja i narzędzia cyfrowe
-- Narzędzia AI (asystenci, systemy wspomagające pracę)
-- Automatyzacja procesów informacyjnych
-
----
-
-## 🧠 Edukacja i działalność twórcza
-
-- Tworzenie darmowych e-booków edukacyjnych
-- Autor książek psychologicznych i rozwojowych
-- Opracowywanie materiałów edukacyjnych z pogranicza: psychologii, technologii, filozofii
-- Psychologia studiowana samodzielnie przez wiele lat w oparciu o obserwacje społeczne, analizę zachowań i praktykę edukacyjną
-
-*(Bez "testów społecznych", bez liczb, bez deklaracji klinicznych.)*
-
----
-
-## 🏢 Projekty
-
-### ALFA – projekty edukacyjne
-- Materiały informacyjne i technologiczne
-- Rozwój treści cyfrowych
-
-### MaxModels – Fotograf
-- Fotografia profesjonalna
-- Współpraca agencyjna
-
-- ### 🛶 Projekty technologiczne i edukacyjne równoległe
-
-- Równoległe do pracy zawodowej prowadzi projekty edukacyjne i technologiczne z zakresu:
-
-- - Automatyzacji procesów
-  - - Narzędzi opartych na AI
-    - - Materiałów edukacyjnych dotyczących zdrowia psychicznego i dobrostanu
-     
-      - ### 🩺 Doświadczenie społeczne i edukacyjne
-     
-      - Autor i współtwórca programów edukacyjnych oraz materiałów informacyjnych dotyczących zdrowia psychicznego, profilaktyki kryzysowej i wsparcia emocjonalnego. Działania te spotkały się z pozytywnym odbiorem instytucji publicznych, w tym środowisk związanych z ochroną zdrowia.
-     
-      - ### 🤖 Projekt narzędzia AI wspierającego komunikację medyczną
-     
-      - Pracuje koncepcyjnie nad projektem narzędzia AI wspierającego komunikację między lekarzem a pacjentem, którego celem jest:
-     
-      - - Porządkowanie informacji
-        - - Wspieranie procesu konsultacyjnego
-          - - Poprawa zrozumienia zaleceń medycznych
-           
-            - Projekt ma charakter edukacyjno-wspierający i nie zastępuje diagnozy ani decyzji lekarza.
-           
-            - Autor inspiruje się międzynarodowymi kierunkami rozwoju sztucznej inteligencji w ochronie zdrowia, w szczególności rozwiązaniami stosowanymi w krajach azjatyckich, gdzie AI pełni rolę narzędzia wspomagącego procesy medyczne.
-
----
-
-## 📚 Publikacje
-
-- Fenomen Czarnego Baranka
-- Sumienie AI
-- W szponach AI
-- Kamień
-- Detektyw
-- Antychryst
-
-*(Tytuły zostawiłem. Bez interpretacji. CV nie jest miejscem na egzegezę.)*
-
----
-
-## 🌍 Języki
-
-- **Ormiański** – ojczysty
-- **Rosyjski** – biegły
-- **Niemiecki** – komunikatywny
-- **Angielski** – komunikatywny
+- Praca proceduralna i odpowiedzialność operacyjna
+- Porządkowanie informacji i myślenie systemowe
+- Podstawy automatyzacji i narzędzi AI
+- Komunikacja jasna, zorientowana na użytkownika
+- Samodyscyplina, koncentracja, odporność psychiczna
 
 ---
 
 ## 🚗 Dodatkowe informacje
 
-- Prawo jazdy kat. B
-- Gotowość do nauki i długoterminowych projektów
-- Wysoka samodyscyplina i konsekwencja w realizacji celów
-
----
+- Projekty rozwijane równolegle do pracy zawodowej
+- CV utrzymywane i aktualizowane w formie publicznego repozytorium
 
 © 2025 Karen Tonoyan. Wszelkie prawa zastrzeżone.
