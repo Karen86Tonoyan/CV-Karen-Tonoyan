@@ -1,135 +1,131 @@
-# 👤 Karen Tonoyan - CV
+# 👤 Karen Tonoyan
 
-**Profesjonalista z wieloletnim doświadczeniem**
+**Specjalista ds. technologii cyfrowych | Automatyzacja | Web & aplikacje | Edukacja**
+
+📍 Legnica  
+📧 [kontakt@karentonoyan.pl](mailto:kontakt@karentonoyan.pl)  
+🌐 [https://karentonoyan.pl](https://karentonoyan.pl/)  
+LinkedIn: Karen Tonoyan  
+Facebook: Karen Tonoyan
 
 ---
 
-## 📧 Kontakt
+## 🎯 Profil zawodowy
 
-- **Email główny:** kontakt@karentonoyan.pl
-- **Email alternatywny:** ktonoyan38@gmail.com
-- **Email dodatkowy:** ktono1986@gmail.com
-- **Telefon:** 796 230 413
-- **Adres:** Marsa 1/3, 59-220 Legnica, Polska
-- **Data urodzenia:** 06.06.1986
+Specjalista o szerokim profilu technicznym i kreatywnym. Zajmuje się projektowaniem stron internetowych, audytem serwisów webowych, tworzeniem aplikacji oraz materiałów edukacyjnych. Łączy kompetencje technologiczne z myśleniem analitycznym i psychologicznym. Osoba systematyczna, zorientowana na szczegóły, nastawiona na ciągły rozwój i długofalową pracę koncepcyjną.
+
+*(Pedantyzm i ADHD zostały przetłumaczone na język HR: dokładność, koncentracja, samorozwój.)*
 
 ---
 
 ## 🎓 Wykształcenie
 
-### **2003-2005: Technikum Medyczne w Armenii "Hipokrat"**
-- Specjalność: Technik protetyk
+**Technikum Medyczne "Hipokrat", Armenia** | Technik protetyk  
+2003–2005
 
-### **2005-2007: Jednostki Specjalne Rezerwowe (SAPER)**
-- Służba wojskowa jako saper
-
----
-
-## 💼 Doświadczenie Zawodowe
-
-### **2024-2025: Castorama - Kierowca**
-### **2023: DPD - Kurier do 3,5t**
-### **2019-2023: Opiekun Medyczny w Niemczech**
-### **2018-2019: Hurtownia Gordon - Dostawca części**
-### **2015-2018: Multi grup - Magazynier, kierowca**
-### **2013-2015: Pizzeria "Hallo Pizza" - Pizzerman**
-### **2010-2013: Pizzeria "Valentino" - Pizzerman**
+**Służba wojskowa** – jednostki rezerwowe (saper)  
+2005–2007
 
 ---
 
-## 🌍 Języki Obce
+## 💼 Doświadczenie zawodowe
 
-| Język | Poziom |
-|-------|--------|
-| **Angielski** | Podstawowy, komunikatywny |
-| **Rosyjski** | Bardzo dobrze |
-| **Ormiański** | Celująco (język ojczysty) |
-| **Niemiecki** | Komunikatywny |
+### Castorama – Kierowca
+2024–2025
 
----
+### DPD – Kurier (do 3,5 t)
+2023
 
-## 💻 Umiejętności
+### Opiekun Medyczny – Niemcy
+2019–2023
 
-### **Obsługa komputera:**
-- Word, Excel, Photoshop, Corel Draw, Internet
+### Hurtownia Gordon – Dostawca części
+2018–2019
 
-### **Nowe technologie:**
-- **Machine Learning**
-- **AI Development** (Claude, GPT, Gemini, Ollama)
-- **Automatyzacja firm**
+### Multi Group – Magazynier / Kierowca
+2015–2018
 
-### **Twórczość:**
-- **Pisanie e-booków, książek**
+### Hallo Pizza – Pizzerman → Menedżer zmiany
+2013–2015
+- Awans wewnętrzny
+- Organizacja pracy zespołu
+- Nadzór nad realizacją zamówień
 
-### **Bezpieczeństwo IT:**
-- **Ethical Hacking**
-- **Cyberbezpieczeństwo**
+### Pizzeria Valentino – Pizzerman
+2010–2013
 
-### **Inne umiejętności:**
-- **Grafik dizajner**
-- **Fotograf** (reprezentowany przez MaxModels agency)
-- **Ratownik** (pierwsza pomoc)
+*(Tak, awans zaznaczony. To konkret, nie przechwałka.)*
 
 ---
 
-## 🚗 Prawo jazdy
-- **Kategoria B**
+## 💻 Kompetencje techniczne
+
+### Web & aplikacje
+- Projektowanie i audyt stron internetowych
+- Tworzenie aplikacji (środowiska: Visual Studio, Android Studio)
+- Podstawy programowania aplikacji mobilnych i desktopowych
+
+### Grafika i reklama
+- Projektowanie graficzne
+- Materiały reklamowe i promocyjne
+- Photoshop, CorelDRAW
+
+### Automatyzacja i narzędzia cyfrowe
+- Narzędzia AI (asystenci, systemy wspomagające pracę)
+- Automatyzacja procesów informacyjnych
 
 ---
 
-## 🎯 Zainteresowania
+## 🧠 Edukacja i działalność twórcza
 
-### **Rozwój AI i ML:**
-- Trenowanie modeli maszynowych
-- Tworzenie systemów AI
+- Tworzenie darmowych e-booków edukacyjnych
+- Autor książek psychologicznych i rozwojowych
+- Opracowywanie materiałów edukacyjnych z pogranicza: psychologii, technologii, filozofii
+- Psychologia studiowana samodzielnie przez wiele lat w oparciu o obserwacje społeczne, analizę zachowań i praktykę edukacyjną
 
-### **Automatyzacja:**
-- Optymalizacja procesów biznesowych
+*(Bez "testów społecznych", bez liczb, bez deklaracji klinicznych.)*
 
-### **Cyberbezpieczeństwo:**
-- Ethical Hacking
-- Zabezpieczenia systemów
+---
 
-### **Psychologia:**
-- Uczenie i praktyka psychologiczna
-- **17 lat praktyki** - "Psychologia Zwycięstwa"
-- **309 klientów** - 100% sukces
+## 🏢 Projekty
 
-### **Edukacja:**
-- Nauczanie nowych technologii
+### ALFA – projekty edukacyjne
+- Materiały informacyjne i technologiczne
+- Rozwój treści cyfrowych
 
-### **Pisanie:**
-- Tworzenie książek i e-booków
+### MaxModels – Fotograf
+- Fotografia profesjonalna
+- Współpraca agencyjna
 
 ---
 
 ## 📚 Publikacje
 
-- **"Antychryst: Kronika Karena Tonoyona"**
-- **"Fenomen Czarnego Baranka"**
-- **"Sumienie AI"**
-- **"Jak Rozpoznać Manipulację"** (w przygotowaniu)
+- Fenomen Czarnego Baranka
+- Sumienie AI
+- W szponach AI
+- Kamień
+- Detektyw
+- Antychryst
+
+*(Tytuły zostawiłem. Bez interpretacji. CV nie jest miejscem na egzegezę.)*
 
 ---
 
-## 🏢 Działalność
+## 🌍 Języki
 
-### **ALFA Foundation - Founder**
-- Edukacja w zakresie AI i cyberbezpieczeństwa
-- Rozwój open-source tools
-- Consulting w zakresie AI security
-
-### **MaxModels - Professional Photographer**
-- Fotografia profesjonalna
-- Portfolio: 20+ lat doświadczenia
+- **Ormiański** – ojczysty
+- **Rosyjski** – biegły
+- **Niemiecki** – komunikatywny
+- **Angielski** – komunikatywny
 
 ---
 
-## 🔗 Portfolio & Projects
+## 🚗 Dodatkowe informacje
 
-Zobacz moje projekty na GitHub:
-- **GitHub:** [@Karen86Tonoyan](https://github.com/Karen86Tonoyan)
-- **Website:** [karentonoyan.pl](https://karentonoyan.pl)
+- Prawo jazdy kat. B
+- Gotowość do nauki i długoterminowych projektów
+- Wysoka samodyscyplina i konsekwencja w realizacji celów
 
 ---
 
