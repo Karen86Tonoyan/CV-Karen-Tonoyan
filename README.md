@@ -30,6 +30,12 @@ Specjalista o szerokim profilu technicznym i kreatywnym. Zajmuje się projektowa
 
 ## 💼 Doświadczenie zawodowe
 
+### 🔐 Ochrona mienia - Pracownik ochrony
+2025 – obecnie
+
+- Zapewnienie bezpieczeństwa obiektów i osób
+- - Praca zgodna z procedurami i odpowiedzialność prawną
+  - - Wysoki poziom dyscypliny, koncentracji i samokontrolę
 ### Castorama – Kierowca
 2024–2025
 
@@ -96,6 +102,30 @@ Specjalista o szerokim profilu technicznym i kreatywnym. Zajmuje się projektowa
 ### MaxModels – Fotograf
 - Fotografia profesjonalna
 - Współpraca agencyjna
+
+- ### 🛶 Projekty technologiczne i edukacyjne równoległe
+
+- Równoległe do pracy zawodowej prowadzi projekty edukacyjne i technologiczne z zakresu:
+
+- - Automatyzacji procesów
+  - - Narzędzi opartych na AI
+    - - Materiałów edukacyjnych dotyczących zdrowia psychicznego i dobrostanu
+     
+      - ### 🩺 Doświadczenie społeczne i edukacyjne
+     
+      - Autor i współtwórca programów edukacyjnych oraz materiałów informacyjnych dotyczących zdrowia psychicznego, profilaktyki kryzysowej i wsparcia emocjonalnego. Działania te spotkały się z pozytywnym odbiorem instytucji publicznych, w tym środowisk związanych z ochroną zdrowia.
+     
+      - ### 🤖 Projekt narzędzia AI wspierającego komunikację medyczną
+     
+      - Pracuje koncepcyjnie nad projektem narzędzia AI wspierającego komunikację między lekarzem a pacjentem, którego celem jest:
+     
+      - - Porządkowanie informacji
+        - - Wspieranie procesu konsultacyjnego
+          - - Poprawa zrozumienia zaleceń medycznych
+           
+            - Projekt ma charakter edukacyjno-wspierający i nie zastępuje diagnozy ani decyzji lekarza.
+           
+            - Autor inspiruje się międzynarodowymi kierunkami rozwoju sztucznej inteligencji w ochronie zdrowia, w szczególności rozwiązaniami stosowanymi w krajach azjatyckich, gdzie AI pełni rolę narzędzia wspomagącego procesy medyczne.
 
 ---
 
