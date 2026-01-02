@@ -1,65 +1,59 @@
-# 👤 Karen Tonoyan
+# KAREN TONOYAN
 
-**Profil operacyjny z kompetencjami technologicznymi | Porządkowanie informacji | Wspieranie ludzi**
+**Profil**
 
-📍 Legnica  
+Pracownik operacyjny z doświadczeniem w służbach ochrony i praktycznym zainteresowaniem technologią używaną do porządkowania informacji i poprawy komunikacji. Wygodnie pracuje w ramach procedur, odpowiedzialności i rutyny. Rozwija wczesne koncepcje i małe projekty związane z automatyzacją, narzędziami AI i zawartością edukacyjną.
+
+📍 Legnica, Polska  
 📧 [kontakt@karentonoyan.pl](mailto:kontakt@karentonoyan.pl)  
 🌐 [https://karentonoyan.pl](https://karentonoyan.pl/)
 
 ---
 
-## 🎯 Profil zawodowy
+## Doświadczenie zawodowe
 
-Profil operacyjny z kompetencjami technologicznymi, ukierunkowanymi na porządkowanie informacji i wspieranie ludzi w środowiskach wymagających odpowiedzialności, dyscypliny oraz jasnej komunikacji. Doświadczenie w pracy zgodnej z procedurami, projektach koncepcyjnych opartych na AI oraz działaniach edukacyjnych i informacyjnych.
-
----
-
-## 💼 Doświadczenie zawodowe
-
-### Pracownik ochrony – ochrona mienia i osób
+### Pracownik ochrony – ochrona mienia
 
 **2025 – obecnie**
 
-- Zapewnienie bezpieczeństwa obiektów i osób w trybie zmianowym
-- Praca zgodna z obowiązującymi procedurami i odpowiedzialnością prawną
-- Utrzymanie koncentracji, kontroli sytuacyjnej i samodyscypliny w środowisku podwyższonego ryzyka
+- Zapewnianie podstawowego bezpieczeństwa obiektów w systemie zmianowym
+- Zgodna praca z ustalonymni procedurami i wymogami prawnymi
+- Utrzymanie uwagi, świadomości sytuacyjnej i niezawodności podczas służby
 
-### Projekty technologiczne – automatyzacja i narzędzia informacyjne
+### Technologia i Automatyzacja (Wczesne projekty / Projekty nauki)
 
-- Projektowanie koncepcji prostych automatyzacji oraz narzędzi opartych na AI
-- Porządkowanie informacji i upraszczanie komunikacji użytkownik–system
-- Zastosowanie rozwiązań technologicznych w kontekstach edukacyjnych i wspierających
-- Łączenie technologii z realnymi potrzebami użytkowników, szczególnie w obszarach wymagających jasności i redukcji przeciążenia informacyjnego
+- Eksploracja prostej automatyzacji i narzędzi opartych na AI do porządkowania informacji
+- Tworzenie małych koncepcji i rozwiązań testowych dla janiejszej komunikacji
+- Nauka praktycznych zastosowań AI w kontekstach edukacyjnych i wspierających
 
-### Doświadczenie społeczne i edukacyjne
+### Działania edukacyjne i informacyjne
 
-- Tworzenie i współtworzenie materiałów edukacyjnych dotyczących zdrowia psychicznego i dobrostanu
-- Działania informacyjne i profilaktyczne związane z kryzysem psychicznym oraz wsparciem emocjonalnym
-- Współpraca z instytucjami publicznymi w zakresie programów i materiałów edukacyjnych
-- Skupienie na komunikacji, zrozumieniu treści oraz odpowiedzialnym przekazywaniu informacji
+- Współtworzenie podstawowych materiałów edukacyjnych związanych ze zdrowiem psychicznym i dobrostaniem
+- Wspieranie inicjatyw informacyjnych i profilaktycznych (nieklinikal, nie-terapeutyczne)
+- Skupienie na jasności, dostępności i odpowiedzialnej komunikacji
 
-### Koncepcja narzędzia AI wspierającego komunikację medyczną
+### Koncepcja: Narzędzie AI wspierające komunikację medyczną
 
-- Koncepcyjny projekt narzędzia wspierającego porządkowanie informacji medycznych dla pacjenta
-- Ułatwienie zrozumienia zaleceń i procesu konsultacyjnego
-- Projekt o charakterze edukacyjno-informacyjnym, nie zastępujący diagnozy ani decyzji lekarza
-- Inspiracja międzynarodowymi kierunkami rozwoju narzędzi wspierających komunikację (w tym kraje azjatyckie)
+- Wczesna koncepcja skupiona na porządkowaniu informacji medycznych dla pacjentów
+- Celem jest polepszenie zrozumienia zaleceń i wyników konsultacji
+- Cel edukacyjny i informacyjny; nie jest narzędziem medycznym ani diagnostycznym
+- Inspirowana istniejącymi międzynarodowymi przykładami technologii wspierających pacjentów
 
 ---
 
-## 💻 Kompetencje kluczowe
+## Umiejętności
 
-- Praca proceduralna i odpowiedzialność operacyjna
-- Porządkowanie informacji i myślenie systemowe
-- Podstawy automatyzacji i narzędzi AI
-- Komunikacja jasna, zorientowana na użytkownika
-- Samodyscyplina, koncentracja, odporność psychiczna
+- Praca proceduralna i niezawodność
+- Podstawowe strukturowanie informacji
+- Wstep­ne używanie narzędzi automatyzacji i AI
+- Jasna komunikacja pisemna
+- Skupienie, dyscyplina i konsekwencja
 
 ---
 
-## 🚗 Dodatkowe informacje
+## Dodatkowe uwagi
 
-- Projekty rozwijane równolegle do pracy zawodowej
-- CV utrzymywane i aktualizowane w formie publicznego repozytorium
+- Projekty rozwijanane niezależnie obok zatrudnienia
+- CV przedstawione w zwięzłym, faktycznym formacie odpowiednim do przeglądu firmy
 
 © 2025 Karen Tonoyan. Wszelkie prawa zastrzeżone.
