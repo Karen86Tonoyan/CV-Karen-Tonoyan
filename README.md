@@ -1,59 +1,81 @@
-# KAREN TONOYAN
+KAREN TONOYAN
 
-**Profil**
+📍 Legnica, Poland
+📧 kontakt@karentonoyan.pl
 
-Pracownik operacyjny z doświadczeniem w służbach ochrony i praktycznym zainteresowaniem technologią używaną do porządkowania informacji i poprawy komunikacji. Wygodnie pracuje w ramach procedur, odpowiedzialności i rutyny. Rozwija wczesne koncepcje i małe projekty związane z automatyzacją, narzędziami AI i zawartością edukacyjną.
+🌐 https://karentonoyan.pl
 
-📍 Legnica, Polska  
-📧 [kontakt@karentonoyan.pl](mailto:kontakt@karentonoyan.pl)  
-🌐 [https://karentonoyan.pl](https://karentonoyan.pl/)
+PROFESSIONAL SUMMARY
 
----
+Operations-focused security professional with 8+ years of experience in high-responsibility environments, including 2 years in military explosive ordnance service and 6 years in professional security operations. Experienced in structured risk assessment, procedural compliance, situational awareness, and operational continuity under pressure.
 
-## Doświadczenie zawodowe
+Demonstrates strong discipline, reliability, and systems-oriented thinking. Independently develops AI-supported workflow concepts and automation prototypes to improve clarity, efficiency, and structured information handling.
 
-### Pracownik ochrony – ochrona mienia
+PROFESSIONAL EXPERIENCE
+Security Operations Specialist
 
-**2025 – obecnie**
+2025 – Present
 
-- Zapewnianie podstawowego bezpieczeństwa obiektów w systemie zmianowym
-- Zgodna praca z ustalonymni procedurami i wymogami prawnymi
-- Utrzymanie uwagi, świadomości sytuacyjnej i niezawodności podczas służby
+Maintain operational safety of assigned facilities in shift-based environments
 
-### Technologia i Automatyzacja (Wczesne projekty / Projekty nauki)
+Enforce procedural compliance and legal standards
 
-- Eksploracja prostej automatyzacji i narzędzi opartych na AI do porządkowania informacji
-- Tworzenie małych koncepcji i rozwiązań testowych dla janiejszej komunikacji
-- Nauka praktycznych zastosowań AI w kontekstach edukacyjnych i wspierających
+Conduct continuous situational risk monitoring
 
-### Działania edukacyjne i informacyjne
+Report incidents with structured documentation
 
-- Współtworzenie podstawowych materiałów edukacyjnych związanych ze zdrowiem psychicznym i dobrostaniem
-- Wspieranie inicjatyw informacyjnych i profilaktycznych (nieklinikal, nie-terapeutyczne)
-- Skupienie na jasności, dostępności i odpowiedzialnej komunikacji
+Ensure uninterrupted operational continuity
 
-### Koncepcja: Narzędzie AI wspierające komunikację medyczną
+Military Service – Explosive Ordnance (Sapper)
 
-- Wczesna koncepcja skupiona na porządkowaniu informacji medycznych dla pacjentów
-- Celem jest polepszenie zrozumienia zaleceń i wyników konsultacji
-- Cel edukacyjny i informacyjny; nie jest narzędziem medycznym ani diagnostycznym
-- Inspirowana istniejącymi międzynarodowymi przykładami technologii wspierających pacjentów
+2 Years
 
----
+Operated in high-risk environments requiring precision and procedural discipline
 
-## Umiejętności
+Conducted hazard assessment and controlled risk mitigation
 
-- Praca proceduralna i niezawodność
-- Podstawowe strukturowanie informacji
-- Wstep­ne używanie narzędzi automatyzacji i AI
-- Jasna komunikacja pisemna
-- Skupienie, dyscyplina i konsekwencja
+Maintained strict compliance with safety protocols
 
----
+Functioned effectively under pressure and time-critical conditions
 
-## Dodatkowe uwagi
+TECHNOLOGY & AUTOMATION PROJECTS (Independent Development)
 
-- Projekty rozwijanane niezależnie obok zatrudnienia
-- CV przedstawione w zwięzłym, faktycznym formacie odpowiednim do przeglądu firmy
+Develop early-stage AI-assisted workflow concepts for information structuring
 
-© 2025 Karen Tonoyan. Wszelkie prawa zastrzeżone.
+Explore automation to improve clarity and reduce operational inefficiencies
+
+Create structured communication models for educational and informational purposes
+
+Study applied AI tools to support scalable data organization
+
+EDUCATIONAL & INFORMATION INITIATIVES
+
+Co-developed informational materials related to mental well-being (non-clinical)
+
+Focus on responsible communication and accessibility
+
+Emphasis on structured, clear information delivery
+
+CORE COMPETENCIES
+
+Operational Discipline & Reliability
+
+Risk Assessment & Procedural Compliance
+
+Structured Reporting
+
+Situational Awareness
+
+Early-Stage Workflow Automation
+
+Clear Written Communication
+
+Consistency in Shift-Based Operations
+
+ADDITIONAL NOTES
+
+Independent project development conducted alongside professional employment
+
+Prepared in a concise, factual format for organizational review
+
+© 2026 Karen Tonoyan
