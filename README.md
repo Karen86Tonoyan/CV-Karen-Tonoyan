@@ -1,7 +1,8 @@
 KAREN TONOYAN
 
-Legnica, Poland
-Email: kontakt@karentonoyan.pl
+📍 Legnica, Poland
+📧 kontakt@karentonoyan.pl
+🌐 https://karentonoyan.pl
 
 PROFESSIONAL SUMMARY
 Operations-focused security professional with 8+ years of experience in high-responsibility environments, including 2 years in military explosive ordnance service and 6 years in professional security operations. Experienced in structured risk assessment, procedural compliance, situational awareness, and maintaining operational continuity under pressure.
